@@ -1,6 +1,6 @@
 # godot-scorm: Basic SCORM interface for Godot 3.x web exports
 
-!!! This project is not feature-complete and is not in active development. !!!
+‼ This project is not feature-complete and is not in active development. ‼
 
 This addon provides rudimentary SCORM functionality via a thin wrapper around a minimally modified version of [lmihaidaniel's JS simple-scorm-wrapper](https://github.com/lmihaidaniel/simple-scorm-wrapper/).
 
